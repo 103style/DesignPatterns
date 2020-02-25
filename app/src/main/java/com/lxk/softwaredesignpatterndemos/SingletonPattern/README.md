@@ -23,5 +23,7 @@
 * [EnumSingleton](https://github.com/103style/DesignPatterns/tree/master/app/src/main/java/com/lxk/softwaredesignpatterndemos/SingletonPattern/imp/EnumSingleton.java)
   枚举 实现的单例
 
+### 线程不全的方式的测试
+
 * [SingletonTest](https://github.com/103style/DesignPatterns/tree/master/app/src/main/java/com/lxk/softwaredesignpatterndemos/SingletonPattern/SingletonTest.java)
   LazyNotSafeSingleton 线程不安全的测试
