@@ -9,6 +9,9 @@
 * [SingletonPattern](https://github.com/103style/DesignPatterns/tree/master/app/src/main/java/com/lxk/softwaredesignpatterndemos/SingletonPattern)
   单例模式
 
+* [BuilderPattern](https://github.com/103style/DesignPatterns/tree/master/app/src/main/java/com/lxk/softwaredesignpatterndemos/BuilderPattern)
+  单例模式
+
 * [ObserverPattern](https://github.com/103style/DesignPatterns/tree/master/app/src/main/java/com/lxk/softwaredesignpatterndemos/ObserverPattern)
   观察者模式
 
