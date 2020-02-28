@@ -10,7 +10,13 @@
   单例模式
 
 * [BuilderPattern](https://github.com/103style/DesignPatterns/tree/master/app/src/main/java/com/lxk/designpatterns/BuilderPattern)
-  单例模式
+  构建者模式
+
+* [PrototypePattern](https://github.com/103style/DesignPatterns/tree/master/app/src/main/java/com/lxk/designpatterns/PrototypePattern)
+  原型模式
+
+* [AdapterPattern](https://github.com/103style/DesignPatterns/tree/master/app/src/main/java/com/lxk/designpatterns/AdapterPattern)
+  适配器模式
 
 * [ObserverPattern](https://github.com/103style/DesignPatterns/tree/master/app/src/main/java/com/lxk/designpatterns/ObserverPattern)
   观察者模式
