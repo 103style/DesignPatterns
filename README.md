@@ -18,7 +18,7 @@
 * [桥接模式（Bridge Pattern）](https://github.com/103style/DesignPatterns/tree/master/app/src/main/java/com/lxk/designpatterns/BridgePattern)
 * [过滤器模式（Filter、Criteria Pattern）](https://github.com/103style/DesignPatterns/tree/master/app/src/main/java/com/lxk/designpatterns/FilterPattern)
 * [组合模式（Composite Pattern）](https://github.com/103style/DesignPatterns/tree/master/app/src/main/java/com/lxk/designpatterns/CompositePattern)
-* 装饰器模式（Decorator Pattern）
+* [装饰器模式（Decorator Pattern）](https://github.com/103style/DesignPatterns/tree/master/app/src/main/java/com/lxk/designpatterns/DecoratorPattern)
 * 外观模式（Facade Pattern）
 * 享元模式（Flyweight Pattern）
 * 代理模式（Proxy Pattern）
