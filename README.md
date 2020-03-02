@@ -28,7 +28,7 @@
 ### 行为型模式
 这些设计模式特别关注对象之间的通信。
 
-* 责任链模式（Chain of Responsibility Pattern）
+* [责任链模式（Chain of Responsibility Pattern）](https://github.com/103style/DesignPatterns/tree/master/app/src/main/java/com/lxk/designpatterns/ChainofResponsibilityPattern)
 * 命令模式（Command Pattern）
 * 解释器模式（Interpreter Pattern）
 * 迭代器模式（Iterator Pattern）
