@@ -42,7 +42,7 @@
 
 ---
 
-[示例](https://github.com/103style/DesignPatterns/tree/master/pic/FacadePattern.jpg)
+![示例](https://github.com/103style/DesignPatterns/tree/master/pic/FacadePattern.jpg)
 
 ---
 

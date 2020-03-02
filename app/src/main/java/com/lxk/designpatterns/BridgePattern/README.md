@@ -41,7 +41,7 @@
 
 ---
 
-[示例](https://github.com/103style/DesignPatterns/tree/master/pic/Bridge.jpg)
+![示例](https://github.com/103style/DesignPatterns/tree/master/pic/Bridge.jpg)
 
 ---
 

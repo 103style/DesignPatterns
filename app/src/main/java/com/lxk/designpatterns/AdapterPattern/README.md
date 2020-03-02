@@ -47,7 +47,7 @@
 
 ---
 
-[示例](https://github.com/103style/DesignPatterns/tree/master/pic/AdapterPattern.jpg)
+![示例](https://github.com/103style/DesignPatterns/tree/master/pic/AdapterPattern.jpg)
 
 ---
 

@@ -40,7 +40,7 @@
 
 ---
 
-[示例](https://github.com/103style/DesignPatterns/tree/master/pic/DecoratorPattern.jpg)
+![示例](https://github.com/103style/DesignPatterns/tree/master/pic/DecoratorPattern.jpg)
 
 ---
 
