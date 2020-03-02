@@ -16,7 +16,7 @@
 
 * [适配器模式（Adapter Pattern）](https://github.com/103style/DesignPatterns/tree/master/app/src/main/java/com/lxk/designpatterns/AdapterPattern)
 * [桥接模式（Bridge Pattern）](https://github.com/103style/DesignPatterns/tree/master/app/src/main/java/com/lxk/designpatterns/BridgePattern)
-* 过滤器模式（Filter、Criteria Pattern）
+* [过滤器模式（Filter、Criteria Pattern）](https://github.com/103style/DesignPatterns/tree/master/app/src/main/java/com/lxk/designpatterns/FilterPattern)
 * 组合模式（Composite Pattern）
 * 装饰器模式（Decorator Pattern）
 * 外观模式（Facade Pattern）
