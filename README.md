@@ -20,7 +20,7 @@
 * [组合模式（Composite Pattern）](https://github.com/103style/DesignPatterns/tree/master/app/src/main/java/com/lxk/designpatterns/CompositePattern)
 * [装饰器模式（Decorator Pattern）](https://github.com/103style/DesignPatterns/tree/master/app/src/main/java/com/lxk/designpatterns/DecoratorPattern)
 * [外观模式（Facade Pattern）](https://github.com/103style/DesignPatterns/tree/master/app/src/main/java/com/lxk/designpatterns/FacadePattern)
-* 享元模式（Flyweight Pattern）
+* [享元模式（Flyweight Pattern）](https://github.com/103style/DesignPatterns/tree/master/app/src/main/java/com/lxk/designpatterns/FlyweightPattern)
 * 代理模式（Proxy Pattern）s
 
 ---
