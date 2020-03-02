@@ -37,4 +37,11 @@
 产品族难扩展，产品等级易扩展。
 
 
+---
+
+[示例](https://github.com/103style/DesignPatterns/tree/master/pic/AbstractFactoryPattern.jpg)
+
+---
+
+
 摘自[phperz](http://www.phperz.com/article/15/0814/148652.html).

@@ -45,6 +45,11 @@
 #### 注意事项
 适配器不是在详细设计时添加的，而是解决正在服役的项目的问题。
 
+---
+
+[示例](https://github.com/103style/DesignPatterns/tree/master/pic/AdapterPattern.jpg)
+
+---
 
 
 摘自[phperz](http://www.phperz.com/article/15/0814/148652.html).

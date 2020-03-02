@@ -50,5 +50,10 @@
 与通过对一个类进行实例化来构造新对象不同的是，原型模式是通过拷贝一个现有对象生成新对象的。
 浅拷贝实现 `Cloneable`，重写，深拷贝是通过实现 `Serializable` 读取二进制流。
 
+---
+
+[示例](https://github.com/103style/DesignPatterns/tree/master/pic/PrototypePattern.jpg)
+
+---
 
 摘自[phperz](http://www.phperz.com/article/15/0814/148652.html).
