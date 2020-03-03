@@ -39,7 +39,7 @@
 * [空对象模式（Null Object Pattern）](https://github.com/103style/DesignPatterns/tree/master/app/src/main/java/com/lxk/designpatterns/NullObjectPattern)
 * [策略模式（Strategy Pattern）](https://github.com/103style/DesignPatterns/tree/master/app/src/main/java/com/lxk/designpatterns/StrategyPattern)
 * [模板模式（Template Pattern）](https://github.com/103style/DesignPatterns/tree/master/app/src/main/java/com/lxk/designpatterns/TemplatePattern)
-* 访问者模式（Visitor Pattern）
+* [访问者模式（Visitor Pattern）](https://github.com/103style/DesignPatterns/tree/master/app/src/main/java/com/lxk/designpatterns/VisitorPattern)
 
 ---
 
