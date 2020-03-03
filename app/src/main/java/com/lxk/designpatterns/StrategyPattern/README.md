@@ -43,7 +43,10 @@
 
 
 ---
+
 ![示例](https://github.com/103style/DesignPatterns/tree/master/pic/StrategyPattern.jpg)
+
 ---
+
 
 摘自[phperz](http://www.phperz.com/article/15/0814/148652.html).
