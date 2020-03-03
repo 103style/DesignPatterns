@@ -33,7 +33,7 @@
 * [解释器模式（Interpreter Pattern）](https://github.com/103style/DesignPatterns/tree/master/app/src/main/java/com/lxk/designpatterns/InterpreterPattern)
 * [迭代器模式（Iterator Pattern）](https://github.com/103style/DesignPatterns/tree/master/app/src/main/java/com/lxk/designpatterns/IteratorPattern)
 * [中介者模式（Mediator Pattern）](https://github.com/103style/DesignPatterns/tree/master/app/src/main/java/com/lxk/designpatterns/MediatorPattern)
-* 备忘录模式（Memento Pattern）
+* [备忘录模式（Memento Pattern）](https://github.com/103style/DesignPatterns/tree/master/app/src/main/java/com/lxk/designpatterns/MementoPattern)
 * [观察者模式（Observer Pattern）](https://github.com/103style/DesignPatterns/tree/master/app/src/main/java/com/lxk/designpatterns/ObserverPattern)
 * 状态模式（State Pattern）
 * 空对象模式（Null Object Pattern）
