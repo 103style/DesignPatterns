@@ -31,7 +31,7 @@
 * [责任链模式（Chain of Responsibility Pattern）](https://github.com/103style/DesignPatterns/tree/master/app/src/main/java/com/lxk/designpatterns/ChainofResponsibilityPattern)
 * [命令模式（Command Pattern）](https://github.com/103style/DesignPatterns/tree/master/app/src/main/java/com/lxk/designpatterns/CommandPattern)
 * [解释器模式（Interpreter Pattern）](https://github.com/103style/DesignPatterns/tree/master/app/src/main/java/com/lxk/designpatterns/InterpreterPattern)
-* 迭代器模式（Iterator Pattern）
+* [迭代器模式（Iterator Pattern）](https://github.com/103style/DesignPatterns/tree/master/app/src/main/java/com/lxk/designpatterns/IteratorPattern)
 * 中介者模式（Mediator Pattern）
 * 备忘录模式（Memento Pattern）
 * [观察者模式（Observer Pattern）](https://github.com/103style/DesignPatterns/tree/master/app/src/main/java/com/lxk/designpatterns/ObserverPattern)
